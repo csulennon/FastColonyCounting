@@ -11,35 +11,33 @@ A simple Software running on Matlab 7.0 GUI environment to automatic count  colo
 
 项目截图
 ------------------
-### 项目主页
+* 项目主页<br />
 ![im_1.jpg](screen/im_01_main.png)<br />
-### 打开待处理的图片
+* 打开待处理的图片
 ![im_2.jpg](screen/im_02_open.png)<br /> 
 
-### 边缘检测
+* 边缘检测<br />
 ![im_3.jpg](screen/im_03_edge.png)<br /> 
-### 自动补洞
+* 自动补洞
 ![im_4.jpg](screen/im_04_fillhole.png)<br /> 
-### 腐蚀图像
+* 腐蚀图像<br />
 ![im_5.jpg](screen/im_05_corrosion.png)<br /> 
-### 膨胀图像
+* 膨胀图像<br />
 ![im_6.jpg](screen/im_06_expand.png)<br /> 
-### 分割图像
+* 分割图像
 ![im_7.jpg](screen/im_07_split.png)<br /> 
-### 保存图像
+*保存图像<br />
 ![im_8.jpg](screen/im_08_save.png)<br /> 
-### 一键处理数据
-* 注意<br /> 
+* 一键处理数据<br />
+    注意<br /> 
+    需要首先打开图像才能进行处理！<br />
 
-    需要首先打开图像才能进行处理！
-
-![im_9.jpg](fastcolonycounting/im_09_onekey.png)<br /> 
-### 手动选择菌斑进行处理
-* 处理方法为：<br /> 
-
+![im_9.jpg](screen/im_09_onekey.png)<br /> 
+* 手动选择菌斑进行处理<br /> 
+    处理方法为：<br /> 
     鼠标左键选择需要统计的菌斑，可以多选。<br /> 
-    双击鼠标则选择结束。
-![im_10.jpg](fastcolonycounting/im_10_sigle_area.png)<br /> 
+    双击鼠标则选择结束。<br /> 
+![im_10.jpg](screen/im_10_sigle_area.png)<br /> 
 
 
 License
