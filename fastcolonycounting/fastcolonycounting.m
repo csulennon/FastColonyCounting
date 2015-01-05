@@ -650,7 +650,7 @@ set(hObject,'BackgroundColor',[0.157 0.157 0.157]);
 
 
 function pushbutton24_Callback(hObject, eventdata, handles)
-list_string = get(handles.listbox1,'string')
+list_string = get(handles.listbox1,'string');
 data=str2num(char(list_string));
 d=str2num(get(handles.edit11,'string'));
 [n,m]=size(data);
