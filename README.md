@@ -29,11 +29,13 @@ A simple Software running on Matlab 7.0 GUI environment to automatic count  colo
 *保存图像<br />
 ![im_8.jpg](screen/im_08_save.png)<br /> 
 * 一键处理数据<br />
+
     注意<br /> 
     需要首先打开图像才能进行处理！<br />
 
 ![im_9.jpg](screen/im_09_onekey.png)<br /> 
 * 手动选择菌斑进行处理<br /> 
+
     处理方法为：<br /> 
     鼠标左键选择需要统计的菌斑，可以多选。<br /> 
     双击鼠标则选择结束。<br /> 
