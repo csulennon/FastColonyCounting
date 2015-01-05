@@ -13,18 +13,18 @@ A simple Software running on Matlab 7.0 GUI environment to automatic count  colo
 ------------------
 * 项目主页<br />
 ![im_1.jpg](screen/im_01_main.png)<br />
-* 打开待处理的图片
+* 打开待处理的图片<br />
 ![im_2.jpg](screen/im_02_open.png)<br /> 
 
 * 边缘检测<br />
 ![im_3.jpg](screen/im_03_edge.png)<br /> 
-* 自动补洞
+* 自动补洞<br />
 ![im_4.jpg](screen/im_04_fillhole.png)<br /> 
 * 腐蚀图像<br />
 ![im_5.jpg](screen/im_05_corrosion.png)<br /> 
 * 膨胀图像<br />
 ![im_6.jpg](screen/im_06_expand.png)<br /> 
-* 分割图像
+* 分割图像<br />
 ![im_7.jpg](screen/im_07_split.png)<br /> 
 *保存图像<br />
 ![im_8.jpg](screen/im_08_save.png)<br /> 
