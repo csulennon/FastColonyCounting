@@ -6,6 +6,6 @@ A simple Software running on Matlab 7.0 GUI environment to automatic count  colo
 
 项目说明
 ------------------
-    测试图片在[FastColonyCounting/fig0.jpg](FastColonyCounting/fig0.jpg)<br /> 
-    ![FastColonyCounting/fig0.jpg](FastColonyCounting/fig0.jpg)<br /> 
+测试图片在[FastColonyCounting/fig0.jpg](FastColonyCounting/fig0.jpg)<br /> 
+![FastColonyCounting/fig0.jpg](FastColonyCounting/fig0.jpg)<br /> 
 
