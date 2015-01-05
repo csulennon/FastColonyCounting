@@ -12,29 +12,32 @@ A simple Software running on Matlab 7.0 GUI environment to automatic count  colo
 项目截图
 ------------------
 ### 项目主页
-![im_1.jpg](fastcolonycounting/im_01_main.png)<br />
+![im_1.jpg](screen/im_01_main.png)<br />
 ### 打开待处理的图片
-![im_2.jpg](fastcolonycounting/im_02_open.png)<br /> 
+![im_2.jpg](screen/im_02_open.png)<br /> 
 
 ### 边缘检测
-![im_3.jpg](fastcolonycounting/im_03_edge.png)<br /> 
+![im_3.jpg](screen/im_03_edge.png)<br /> 
 ### 自动补洞
-![im_4.jpg](fastcolonycounting/im_04_fillhole.png)<br /> 
+![im_4.jpg](screen/im_04_fillhole.png)<br /> 
 ### 腐蚀图像
-![im_5.jpg](fastcolonycounting/im_05_corrosion.png)<br /> 
+![im_5.jpg](screen/im_05_corrosion.png)<br /> 
 ### 膨胀图像
-![im_6.jpg](fastcolonycounting/im_06_expand.png)<br /> 
+![im_6.jpg](screen/im_06_expand.png)<br /> 
 ### 分割图像
-![im_7.jpg](fastcolonycounting/im_07_split.png)<br /> 
+![im_7.jpg](screen/im_07_split.png)<br /> 
 ### 保存图像
-![im_8.jpg](fastcolonycounting/im_08_save.png)<br /> 
+![im_8.jpg](screen/im_08_save.png)<br /> 
 ### 一键处理数据
-* 注意
+* 注意<br /> 
+
     需要首先打开图像才能进行处理！
+
 ![im_9.jpg](fastcolonycounting/im_09_onekey.png)<br /> 
 ### 手动选择菌斑进行处理
-* 处理方法为：
-    鼠标左键选择需要统计的菌斑，可以多选。
+* 处理方法为：<br /> 
+
+    鼠标左键选择需要统计的菌斑，可以多选。<br /> 
     双击鼠标则选择结束。
 ![im_10.jpg](fastcolonycounting/im_10_sigle_area.png)<br /> 
 
